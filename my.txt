@@ -1,0 +1,5 @@
+#!/bin/bash
+read -p "the age is " age
+echo "my age is $age"
+
+
